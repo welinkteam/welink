@@ -1,0 +1,22 @@
+{
+   "short_name": "WeCare",
+   "name": "WeCare: Connecting communities, Supporting each other",
+   "description": "Connecting communities, Supporting each other",
+   "icons":[
+      {
+         "src":"/assets/img/icons-192.png",
+         "type":"image/png",
+         "sizes":"192x192"
+      },
+      {
+         "src":"/assets/img/icons-512.png",
+         "type":"image/png",
+         "sizes":"512x512"
+      }
+   ],
+   "start_url":"/index.html",
+   "background_color":"#ed7f61",
+   "theme_color":"#ed7f61",
+   "display":"standalone",
+   "orientation":"portrait"
+}
